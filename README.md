@@ -31,5 +31,5 @@ I'm a electrical power engineer who is passionate about Embedded Software.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </p>
-<img src="https://github.com/fadymagdy2/fadymagdy2/assets/114836327/ba8f103f-845b-4591-8862-a64b82a88805"/>
+<img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra"/>
 </p>
