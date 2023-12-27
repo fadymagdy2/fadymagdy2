@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Fady magdy.</h2>
 
-<img width="200" align="right" alt="Github" src="https://github.com/fadymagdy2/fadymagdy2/assets/114836327/02db6c4a-0c52-4692-89a5-d05167c1a355" />
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -31,5 +31,5 @@ I'm a electrical power engineer who is passionate about Embedded Software.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </p>
-<img src="[https://imgur.com/rilHVxA.png](https://www.shutterstock.com/shutterstock/videos/1062499585/preview/stock-footage-alternative-cinematic-macro-of-programer-s-hands-busy-working-on-latest-innovative-sophisticated.webm)https://www.shutterstock.com/shutterstock/videos/1062499585/preview/stock-footage-alternative-cinematic-macro-of-programer-s-hands-busy-working-on-latest-innovative-sophisticated.webm"/>
+<img src="https://github.com/fadymagdy2/fadymagdy2/assets/114836327/ba8f103f-845b-4591-8862-a64b82a88805"/>
 </p>
