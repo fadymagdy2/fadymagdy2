@@ -1,17 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fady Magdy
-==================================================================================================================================
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-Embedded Software Engineer
---------------------------
+<h2> Hey there! I'm Fady magdy.</h2>
 
-I'm a electrical power engineer who is passionate about Embedded Software. 🎓 graduated from El Shorouk Academy . 🌱 Learning more about Microcontrollers , Embedded Software and AUTOSAR.
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-*   🌍  I'm based in Egypt
-*   ✉️  You can contact me at [fadymagdy430@gmail.com](mailto:fadymagdy430@gmail.com)
-*   🧠  I'm learning AUTOSAR### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
-                    
-                
-                     
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+I'm a electrical power engineer who is passionate about Embedded Software.
+
+- 🎓 &nbsp; I’m graduated from El Shorouk Academy
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware and AUTOSAR. 
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/fady-magdy430) [Gmail](https://www.fadymagdy430@gmail.com)
+
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+  
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+</p>
+<img src="[https://imgur.com/rilHVxA.png](https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif)https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif"/>
+</p>
