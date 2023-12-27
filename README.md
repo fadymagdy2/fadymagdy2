@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Fady magdy.</h2>
 
-<img width="200" align="right" alt="Github" src="https://github.com/fadymagdy2/fadymagdy2/assets/114836327/279e02ea-8523-47f7-b915-55f0b26c46f6" />
+<img width="200" align="right" alt="Github" src="https://github.com/fadymagdy2/fadymagdy2/assets/114836327/02db6c4a-0c52-4692-89a5-d05167c1a355" />
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
