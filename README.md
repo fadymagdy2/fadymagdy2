@@ -30,6 +30,6 @@ I'm a electrical power engineer who is passionate about Embedded Software.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</p>
-<img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra"/>
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
