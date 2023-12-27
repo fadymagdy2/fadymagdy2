@@ -31,5 +31,6 @@ I'm a electrical power engineer who is passionate about Embedded Software.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </p>
-<img src="[https://imgur.com/rilHVxA.png](https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif)https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif"/>
+<img src="[![image](https://github.com/fadymagdy2/fadymagdy2/assets/114836327/872072d8-0b85-4715-b55b-b016c9416131)
+](https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif)https://images.payhip.com/o_1hfhnjbksc8mu011irtvvj16bc18.gif"/>
 </p>
